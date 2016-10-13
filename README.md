@@ -1,2 +1,2 @@
-# calabash-commands
+# calabash-notes
 Calabash Notes.
