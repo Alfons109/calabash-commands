@@ -1,3 +1,12 @@
+#Readings
+1) Getting Started
+https://github.com/cucumber/cucumber/wiki/Cucumber-Backgrounder
+
+2) Cross-platform Acceptance Testing Best Practices
+https://github.com/calabash/calabash-ios/blob/master/calabash-cucumber/doc/x-platform-testing.md
+
+
+
 #Install Calabash
 curl -sSL https://raw.githubusercontent.com/calabash/install/master/install-osx.sh | bash
 
@@ -19,3 +28,5 @@ exit
 
 #Running on your local/emulator device
 calabash-android run app-staging-debug.apk --verbose
+
+
